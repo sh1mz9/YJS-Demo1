@@ -590,5 +590,5 @@ st.divider()
 st.markdown("""
 **YJS Consulting MVP** | Powered by OpenAI GPT-4-turbo | 6 Agents Demo
 
-[🌐 Website](https://yjs-consulting.com) | [📧 Contact](mailto:demo@yjs-consulting.com) | [🚀 Schedule Demo](https://calendly.com/yjs)
+[🌐 Website](https://www.yjstrategy.com/) | [📧 Contact](mailto:demo@yjs-consulting.com) | [🚀 Schedule Demo](https://calendly.com/yjs)
 """)
